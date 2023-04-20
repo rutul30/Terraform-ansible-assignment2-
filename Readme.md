@@ -1,0 +1,5 @@
+# Automation with Terraform Lab
+
+This lab involves creating an infrastructure in Azure using Terraform. The lab has 5 instructions and 14 requirements that need to be followed. The instructions include creating a GitHub repository to develop the code, sharing the repository URL with the instructor, running the code from the automation VM, selecting a specific VM size and storage options, and using logical names for all resources.
+
+The requirements include writing 8 child modules to create specific resources, parametrizing the Terraform configuration, using Azure backend to store Terraform state information, hardcoding values in child modules, shutting down the VMs and DB instances when not in use, using specific tags for all resources, creating a root module and defining all child modules, running the terraform plan command to confirm what Terraform will deploy, and running the terraform apply --auto-approve command to provision the infrastructure.
